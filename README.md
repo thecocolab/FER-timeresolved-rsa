@@ -14,7 +14,7 @@ and against models of identity, occlusion, pixels, optical flow and motion energ
 ## Quick start
 
 ```bash
-git clone https://github.com/MaryemBenslimane/FER-timeresolved-rsa.git
+git clone https://github.com/thecocolab/FER-timeresolved-rsa.git
 cd FER-timeresolved-rsa
 pip install -e .                                  # Python 3.12
 export FER_ROOT=/path/to/data                     # EEG and model RDMs (default: the repository root)
