@@ -2,6 +2,8 @@
 
 Code for the NeurIPS 2026 paper by Maryem Benslimane, Hamza Abdelhedi, Franco Lepore, Vanessa Hadid and Karim Jerbi.
 
+**Paper:** [OpenReview](https://openreview.net/forum?id=jMlzffZ5UW) · [NeurIPS 2026 poster](https://neurips.cc/virtual/2026/loc/sydney/poster/150276)
+
 Deep networks are increasingly evaluated by how closely their representations match brain activity. We
 asked which steps of training (generic pretraining, face-identity training, emotion fine-tuning) change
 that alignment. We compared the EEG of 25 participants watching 54 one-second videos of fearful, happy and
@@ -84,7 +86,8 @@ Then run the quick start.
   title     = {Training Vision Models to Recognize Faces and Emotions Does Not Consistently Improve Neural Alignment},
   author    = {Benslimane, Maryem and Abdelhedi, Hamza and Lepore, Franco and Hadid, Vanessa and Jerbi, Karim},
   booktitle = {Advances in Neural Information Processing Systems},
-  year      = {2026}
+  year      = {2026},
+  url       = {https://openreview.net/forum?id=jMlzffZ5UW}
 }
 ```
 
